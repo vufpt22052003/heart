@@ -1,0 +1,57 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/QUANGVU/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE126/AbsoluteLayout-RELEASE126.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LAB6 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LAB6 1.0-SNAPSHOT API'
+edu.poly.vn.lab6
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/b2.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/Bai_2.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/ClockJFrame.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/EvenThread_B3.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/LAB_4.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/LOTTETHERD_B4.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/MyThread.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/MyThread2.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/OddThread_B3.java'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/LAB6/src/main/java/edu/poly/vn/lab6/TestThread_B3.java'
+C:\Users\QUANGVU\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE126\AbsoluteLayout-RELEASE126.jar = 1654271879327
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\src\main\java = 1654329267233
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\allclasses-index.html = 1654329357780
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\allpackages-index.html = 1654329357788
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\element-list = 1654329357356
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\help-doc.html = 1654329357871
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\index-all.html = 1654329357854
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\index.html = 1654329357859
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\jquery-ui.overrides.css = 1654329357958
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\member-search-index.js = 1654329357800
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\module-search-index.js = 1654329357791
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\overview-tree.html = 1654329357737
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\package-search-index.js = 1654329357795
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\script.js = 1654329357879
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\search.js = 1654329357885
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\serialized-form.html = 1654329357516
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\stylesheet.css = 1654329357876
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\tag-search-index.js = 1654329357804
+C:\Users\QUANGVU\Documents\NetBeansProjects\LAB6\target\site\apidocs\type-search-index.js = 1654329357798

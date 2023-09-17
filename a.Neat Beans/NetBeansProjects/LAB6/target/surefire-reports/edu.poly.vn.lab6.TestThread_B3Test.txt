@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: edu.poly.vn.lab6.TestThread_B3Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec <<< FAILURE!
+edu.poly.vn.lab6.TestThread_B3Test.testSomeMethod()  Time elapsed: 0.014 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at edu.poly.vn.lab6.TestThread_B3Test.testSomeMethod(TestThread_B3Test.java:42)
+

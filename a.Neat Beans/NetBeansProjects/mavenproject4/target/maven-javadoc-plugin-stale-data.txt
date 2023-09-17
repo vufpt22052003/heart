@@ -1,0 +1,49 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/QUANGVU/Documents/NetBeansProjects/mavenproject4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/QUANGVU/Documents/NetBeansProjects/mavenproject4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ASS 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ASS 1.0-SNAPSHOT API'
+'C:/Users/QUANGVU/Documents/NetBeansProjects/mavenproject4/src/main/java/ASS.java'
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\src\main\java\ASS.form = 1653486838694
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\src\main\java\ASS.java = 1653486838737
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\src\main\java = 1653486100306
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\allclasses-index.html = 1653486854366
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\allpackages-index.html = 1653486854375
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\ASS.html = 1653486854122
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\element-list = 1653486854126
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\help-doc.html = 1653486854479
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\index-all.html = 1653486854435
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\index.html = 1653486854441
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\jquery-ui.overrides.css = 1653486854609
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\member-search-index.js = 1653486854394
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\module-search-index.js = 1653486854380
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\overview-tree.html = 1653486854326
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\package-search-index.js = 1653486854385
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\package-summary.html = 1653486854142
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\package-tree.html = 1653486854156
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\package-use.html = 1653486854311
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\script.js = 1653486854492
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\search.js = 1653486854511
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\serialized-form.html = 1653486854261
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\stylesheet.css = 1653486854486
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\tag-search-index.js = 1653486854409
+C:\Users\QUANGVU\Documents\NetBeansProjects\mavenproject4\target\site\apidocs\type-search-index.js = 1653486854391
